@@ -15,6 +15,14 @@ p{
     align-items: center;
 }
 
+
+#text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 h1{
     animation-name: cargar;
     animation-duration: 3s;
