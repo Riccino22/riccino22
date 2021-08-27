@@ -16,12 +16,6 @@ p{
 }
 
 
-#text{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 
 h1{
     animation-name: cargar;
@@ -296,6 +290,13 @@ button:hover{
 /*TLF*/
 
 @media (max-width:900px){
+    p{
+    	display: flex;
+    	justify-content: hidden;
+    	align-items: hidden;
+    }
+
+	
     body{
         background-color: #070300ea;    
     }
