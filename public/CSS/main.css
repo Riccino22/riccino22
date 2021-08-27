@@ -9,12 +9,12 @@ body{
 }
 
 
-p{
+/*p{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
+*/
 
 
 h1{
@@ -290,12 +290,12 @@ button:hover{
 /*TLF*/
 
 @media (max-width:900px){
-    p{
+ /*   p{
     	display: flex;
     	justify-content: hidden;
     	align-items: hidden;
     }
-
+*/
 	
     body{
         background-color: #070300ea;    
